@@ -1,3 +1,28 @@
-# Hi! I'm Glória!
 
-This profile is under construction
+
+<img align="right" height="200px" src="https://media1.giphy.com/media/f8suIm8PqkcysK2T1D/giphy.gif?cid=790b7611bad35d28a38553b1d233176a780ba59ad6061854&rid=giphy.gif&ct=s" />
+
+### 👩‍💻 Hey! I'm Glória! 
+
+~~~php
+$me = "A frontend engineer that is passionate about art, design and UI"; 
+~~~
+  
+  ### 💕 Connect With Me!
+  <div>
+    <a href="https://www.linkedin.com/in/gloriaporte/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
+    <a href="https://twitter.com/AttPersefone"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" /><a>
+    <a href="https://gloriaporte.notion.site/Workspace-7467626e0d064d949a0e61f9c3dcb459"><img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="30px"/></a>
+  </div>
+
+  ### 💻 Languages and Tools
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30px"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
+  </div>
