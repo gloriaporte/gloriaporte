@@ -5,7 +5,7 @@
 ### 👩‍💻 Hey! I'm Glória! 
 
 ~~~php
-$me = "A frontend engineer that is passionate about art, design and UI"; 
+$me = "A developer passionate about art and design."; 
 ~~~
   
   ### 💕 Connect With Me!
