@@ -11,8 +11,6 @@ $me = "A developer passionate about art and design.";
   ### 💕 Connect With Me!
   <div>
     <a href="https://www.linkedin.com/in/gloriaporte/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" /></a>
-    <a href="https://twitter.com/AttPersefone"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px" /><a>
-    <a href="https://gloriaporte.notion.site/Workspace-7467626e0d064d949a0e61f9c3dcb459"><img src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" width="30px"/></a>
   </div>
 
   ### 💻 Languages and Tools
